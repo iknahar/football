@@ -37,6 +37,7 @@
   }
   .highlight {
     grid-template-columns: repeat(1, 1fr);
+    text-align: center;
   }
 
   .highlight__left {
@@ -122,6 +123,7 @@
 
   .highlight {
     grid-template-columns: repeat(2, 1fr);
+    text-align: center;
   }
 
   .highlight__left {
